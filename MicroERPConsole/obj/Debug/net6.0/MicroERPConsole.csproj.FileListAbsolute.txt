@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\obj\Debug\net6.0\MicroERPConsole.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\obj\Debug\net6.0\MicroERPConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\obj\Debug\net6.0\MicroERPConsole.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\obj\Debug\net6.0\MicroERPConsole.AssemblyInfo.cs
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\obj\Debug\net6.0\MicroERPConsole.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\bin\Debug\net6.0\MicroERPConsole.exe
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\bin\Debug\net6.0\MicroERPConsole.deps.json
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\bin\Debug\net6.0\MicroERPConsole.runtimeconfig.json
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\bin\Debug\net6.0\MicroERPConsole.dll
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\bin\Debug\net6.0\MicroERPConsole.pdb
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\obj\Debug\net6.0\MicroERPConsole.dll
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\obj\Debug\net6.0\refint\MicroERPConsole.dll
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\obj\Debug\net6.0\MicroERPConsole.pdb
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\obj\Debug\net6.0\MicroERPConsole.genruntimeconfig.cache
+C:\Users\gabri\source\repos\MicroERPConsole\MicroERPConsole\obj\Debug\net6.0\ref\MicroERPConsole.dll
